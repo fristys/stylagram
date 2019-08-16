@@ -1,3 +1,11 @@
+# Stylagram
+
+I decided to check out `styled-components` in more detail. One of the tutorial articles I read suggested I recreate Instagram's profile page UI as an exercise, so here it is.
+
+I've taken the liberty of making it more responsive than the actual Instagram Web UI.
+
+___
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
